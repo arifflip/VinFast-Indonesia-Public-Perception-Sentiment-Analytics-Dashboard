@@ -8,11 +8,11 @@
 
 ## Dashboard Preview
 
-<img width="4150" height="2400" alt="sentiment_dashboard_page-0001" src="https://github.com/user-attachments/assets/e69a858a-e322-4e65-a5e3-aaa675215cb1" />
+<img width="1782" height="995" alt="image" src="https://github.com/user-attachments/assets/3260b9bb-1a68-4674-8825-f018cfdf13e4" />
 
 <br>
 
-<img width="4150" height="2400" alt="sentiment_dashboard_page-0002" src="https://github.com/user-attachments/assets/45d873ff-03e0-44c4-9e9c-ee7a7d26d878" />
+<img width="1782" height="998" alt="image" src="https://github.com/user-attachments/assets/b742f3da-76c3-4e8c-9465-a32831ab2b4c" />
 
 ---
 
